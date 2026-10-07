@@ -1,0 +1,5 @@
+[
+  {"id": "fortnite", "name": "Fortnite", "category": "online", "exe": "D:\\Games\\Fortnite\\Fortnite.exe", "cover": "fortnite.jpg"},
+  {"id": "pes", "name": "eFootball", "category": "online", "exe": "D:\\Games\\eFootball\\efootball.exe", "cover": "pes.jpg"},
+  {"id": "gta5", "name": "GTA V", "category": "offline", "exe": "D:\\Games\\GTAV\\GTA5.exe", "cover": "gta5.jpg"}
+]
